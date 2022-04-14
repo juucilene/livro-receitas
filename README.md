@@ -1,4 +1,4 @@
-# Livro de recitas 
+# Livro de Receitas 
 
 Olá, bem vindo ao livro de receitas
 
